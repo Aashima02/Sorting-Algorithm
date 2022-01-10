@@ -64,10 +64,10 @@ print(value)
 
 ## OUTPUT:
 ### Selection Sort:
-![OUTPUT](./output1.png)
+![output1](https://user-images.githubusercontent.com/93427086/148724903-3989ea25-042c-4eff-aa9f-d260378cd1a0.png)
 
 ### Insertion Sort:
-![OUTPUT](./output2.png)
+![output2](https://user-images.githubusercontent.com/93427086/148724921-eb6e2169-0559-4c67-ac58-cefbc98b1780.png)
 
 
 ## RESULT:
